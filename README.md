@@ -1,3 +1,5 @@
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 # LazyWin11Installer
 
 LazyWin11Installer is a **command-line tool** to quickly set up a fresh Windows 11 installation with your favorite presets, browsers, antivirus, and optional system cleanup using Tron. It’s designed to make post-install tuning fast and easy.
