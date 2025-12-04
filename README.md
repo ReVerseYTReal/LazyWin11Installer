@@ -1,4 +1,9 @@
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![GitHub Repo stars](https://img.shields.io/github/stars/yourusername/LazyWin11Installer?style=social)](https://github.com/yourusername/LazyWin11Installer/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/yourusername/LazyWin11Installer?style=social)](https://github.com/yourusername/LazyWin11Installer/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/yourusername/LazyWin11Installer)](https://github.com/yourusername/LazyWin11Installer/issues)
+[![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/LazyWin11Installer)](https://github.com/yourusername/LazyWin11Installer/commits)
+[![GitHub downloads](https://img.shields.io/github/downloads/yourusername/LazyWin11Installer/total)](https://github.com/yourusername/LazyWin11Installer/releases)
 
 # LazyWin11Installer
 
